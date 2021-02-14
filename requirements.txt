@@ -1,7 +1,6 @@
 numpy
 datetime
 streamlit
-pickle
 xgboost
 sklearn
 matplotlib
