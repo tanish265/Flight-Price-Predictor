@@ -19,5 +19,5 @@ Dataset is taken from Kaggle.
 4. Run command "pip install -r requirements.txt"
 5. Run command "streamlit run app.py"
 
-## Demo-
+## App Demo-
 ![](Demo_Images/1.png)
